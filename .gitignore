@@ -1,0 +1,7 @@
+/.env
+/.langgraph_api
+/chroma_langchain_db
+/journal_2025-11-19.md
+/langgraph.json
+/venv
+/__pycache__
